@@ -1,0 +1,3 @@
+include ':app'
+include ':EQWorks'
+rootProject.name = "My Application3"
