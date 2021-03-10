@@ -57,8 +57,10 @@ Step 2. Add the dependency
 
 
 ## To test the library 
+
 -import this project to Android studio or IntelliJ IDEA 
 -Build and install this app module on emulator or physical device. 
 -Fab button on bottom corner mimics the library log call. 
+-Testclass TestLogRequest has jUnit test function in library EQWorks package
 [What is this for?](https://github.com/EQWorks/work-samples#what-is-this)
 
