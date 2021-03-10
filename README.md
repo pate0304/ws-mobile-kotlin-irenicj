@@ -55,5 +55,10 @@ Step 2. Add the dependency
  - If log is called with no params it will set the lat, long to (0,0) 
  - Field name "ext" : String can be used for silent error logging on the server
 
+
+## To test the library 
+-import this project to Android studio or IntelliJ IDEA 
+-Build and install this app module on emulator or physical device. 
+-Fab button on bottom corner mimics the library log call. 
 [What is this for?](https://github.com/EQWorks/work-samples#what-is-this)
 
