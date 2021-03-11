@@ -32,7 +32,10 @@ Step 2. Add the dependency
              * Library initialization
              * Requires Minimum android version 23
              * The app manifest should have allowed ACCESS_FINE_LOCATION, INTERNET permissions
+             * *Library does not prompt for turning on location permission for the application
+             * The application must have the location enabled for all time or while using app from system's location settings.
              */
+             
             val library = Library()
 
             /**
